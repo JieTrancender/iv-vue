@@ -49,9 +49,11 @@
     "mp-weixin" : {
         "appid" : "wxa020bb825fc38cc6",
         "setting" : {
-            "urlCheck" : false,
-            "es6" : true
-        }
+            "urlCheck" : true,
+            "es6" : true,
+            "minified" : true
+        },
+        "permission" : {}
     },
     "h5" : {
         "title" : "ColorUi for UniApp",
